@@ -45,3 +45,11 @@ Feel free to fork this repository and submit pull requests. Ensure code follows 
 
 ## Contact
 For further information or questions, please contact [tusharbhardwaj2617@gmail.com].
+
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
